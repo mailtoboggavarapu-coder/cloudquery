@@ -1,5 +1,13 @@
 # Changelog
 
+## [7.10.11](https://github.com/cloudquery/cloudquery/compare/plugins-destination-s3-v7.10.10...plugins-destination-s3-v7.10.11) (2026-04-20)
+
+
+### Bug Fixes
+
+* **deps:** Update aws-sdk-go-v2 monorepo ([#22587](https://github.com/cloudquery/cloudquery/issues/22587)) ([6a9e05f](https://github.com/cloudquery/cloudquery/commit/6a9e05fe07881e56b40a5f5efa1894fcb3242170))
+* **deps:** Update module google.golang.org/api to v0.275.0 ([#22590](https://github.com/cloudquery/cloudquery/issues/22590)) ([0e4cedc](https://github.com/cloudquery/cloudquery/commit/0e4cedc995e977a7dded30b2abeaf916c95abb90))
+
 ## [7.10.10](https://github.com/cloudquery/cloudquery/compare/plugins-destination-s3-v7.10.9...plugins-destination-s3-v7.10.10) (2026-04-15)
 
 
