@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.19](https://github.com/cloudquery/cloudquery/compare/plugins-transformer-jsonflattener-v2.1.18...plugins-transformer-jsonflattener-v2.1.19) (2026-04-20)
+
+
+### Bug Fixes
+
+* **deps:** Update module google.golang.org/api to v0.275.0 ([#22590](https://github.com/cloudquery/cloudquery/issues/22590)) ([0e4cedc](https://github.com/cloudquery/cloudquery/commit/0e4cedc995e977a7dded30b2abeaf916c95abb90))
+
 ## [2.1.18](https://github.com/cloudquery/cloudquery/compare/plugins-transformer-jsonflattener-v2.1.17...plugins-transformer-jsonflattener-v2.1.18) (2026-04-15)
 
 
